@@ -5,13 +5,13 @@
 </template>
 
 <script>
-import MyAwards from "./components/MyAwards";
+import MyAwards from './components/MyAwards';
 
 export default {
-  name: "App",
+  name: 'App',
   components: {
-    MyAwards
-  }
+    MyAwards,
+  },
 };
 </script>
 
